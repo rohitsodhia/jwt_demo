@@ -1,0 +1,13 @@
+{
+    "name": "root/jwt_demo",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Rohit Sodhia",
+            "email": "sodhia.rohit@gmail.com"
+        }
+    ],
+    "require": {
+        "lcobucci/jwt": "^3.2"
+    }
+}
